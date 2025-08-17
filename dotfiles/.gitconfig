@@ -1,0 +1,7 @@
+[user]
+    name = mike
+    email = mike@localhost
+[core]
+    editor = micro
+[init]
+    defaultBranch = main
