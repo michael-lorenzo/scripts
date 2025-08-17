@@ -1,4 +1,4 @@
 ufw limit 22
 ufw allow 80
 ufw allow 443
-ufw enable
+ufw --force enable
