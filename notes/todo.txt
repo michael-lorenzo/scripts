@@ -1,0 +1,25 @@
+postfix / relay
+https://documentation.ubuntu.com/server/how-to/mail-services/install-postfix/
+postmark?
+SES?
+cloudflare? (invite only atm)
+
+https://github.com/mrash/fwknop
+make a go version instead of perl
+
+try:
+https://github.com/twentyhq/twenty
+https://github.com/github/copilot-cli
+https://github.com/discourse/discourse
+https://github.com/fastplotlib/fastplotlib
+https://github.com/stanfordnlp/dspy
+https://overturemaps.org/
+https://openzl.org/
+
+
+npm install -g typescript
+https://pnpm.io/
+nextjs
+
+https://github.com/topics/google-analytics
+https://github.com/fingerprintjs/fingerprintjs
