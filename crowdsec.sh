@@ -2,3 +2,4 @@
 curl -s https://install.crowdsec.net | sudo sh
 apt-get install -y crowdsec crowdsec-firewall-bouncer-iptables
 systemctl restart crowdsec
+# cscli decisions list
