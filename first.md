@@ -1,7 +1,7 @@
 # APT
 ```shell
 sudo apt-get update
-sudo apt-get -y install mosh
+sudo apt-get -y install build-essential mosh
 sudo apt-get -y dist-upgrade
 sudo apt-get -y autopurge snapd
 sudo apt-get clean
