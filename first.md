@@ -25,8 +25,10 @@ sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --no-daem
 ## nixpkgs
 ```shell
 nix-env -iA nixpkgs.age
+nix-env -iA nixpkgs.bat
 nix-env -iA nixpkgs.fd
 nix-env -iA nixpkgs.fzf
+nix-env -iA nixpkgs.jq
 nix-env -iA nixpkgs.micro
 nix-env -iA nixpkgs.ripgrep
 nix-env -iA nixpkgs.zoxide
