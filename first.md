@@ -44,6 +44,10 @@ eval "$(fzf --bash)"
 eval "$(zoxide init bash)"
 ```
 
+```shell
+source ~/.bashrc
+```
+
 ---
 
 # Git
