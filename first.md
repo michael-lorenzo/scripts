@@ -12,15 +12,19 @@ reboot
 
 # Nix
 
-## Multi-user installation
+## Multi-user installation (recommended)
 ```shell
 sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon
 ```
 
-## Single-user installation
+<details>
+<summary>Single-user installation</summary>
+  
 ```shell
 sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --no-daemon
 ```
+
+</details>
 
 ## nixpkgs
 ```shell
