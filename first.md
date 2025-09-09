@@ -1,10 +1,10 @@
 # APT
 ```shell
-sudo apt-get update
-sudo apt-get -y install build-essential mosh
-sudo apt-get -y dist-upgrade
-sudo apt-get -y autopurge snapd
-sudo apt-get clean
+apt-get update
+apt-get -y install build-essential mosh
+apt-get -y dist-upgrade
+apt-get -y autopurge snapd
+apt-get clean
 reboot
 ```
 
