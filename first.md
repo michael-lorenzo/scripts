@@ -40,11 +40,8 @@ nix-env -iA nixpkgs.zoxide
 
 ## Update `~/.bashrc`
 ```sh
-eval "$(fzf --bash)"
-eval "$(zoxide init bash)"
-```
-
-```shell
+echo 'eval "$(fzf --bash)"' >> ~/.bashrc
+echo 'eval "$(zoxide init bash)"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
