@@ -33,6 +33,7 @@ nix-env -iA nixpkgs.bat
 nix-env -iA nixpkgs.fd
 nix-env -iA nixpkgs.fzf
 nix-env -iA nixpkgs.jq
+nix-env -iA nixpkgs.lazydocker
 nix-env -iA nixpkgs.micro
 nix-env -iA nixpkgs.ripgrep
 nix-env -iA nixpkgs.zoxide
