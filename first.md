@@ -12,16 +12,18 @@ reboot
 
 # Nix
 
+[NixOS Download](https://nixos.org/download/#nix-install-linux)
+
 ## Multi-user installation (recommended)
 ```shell
-sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon
+sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon --yes
 ```
 
 <details>
 <summary>Single-user installation</summary>
   
 ```shell
-sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --no-daemon
+sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --no-daemon --yes
 ```
 
 </details>
