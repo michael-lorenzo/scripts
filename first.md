@@ -2,7 +2,7 @@
 ```shell
 apt-get update
 apt-get -y install build-essential mosh
-apt-get -y dist-upgrade
+DEBIAN_FRONTEND=noninteractive apt-get -y dist-upgrade
 apt-get -y autopurge snapd
 apt-get clean
 reboot
@@ -14,19 +14,10 @@ reboot
 
 [NixOS Download](https://nixos.org/download/#nix-install-linux)
 
-## Multi-user installation (recommended)
 ```shell
 sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon --yes
+source /etc/profile
 ```
-
-<details>
-<summary>Single-user installation</summary>
-  
-```shell
-sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --no-daemon --yes
-```
-
-</details>
 
 ## nixpkgs
 ```shell
