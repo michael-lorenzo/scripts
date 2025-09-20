@@ -10,4 +10,6 @@
 # Tools
 - https://github.com/benbjohnson/litestream
 - https://github.com/caddyserver/caddy
+- https://github.com/rclone/rclone
 - https://github.com/restic/restic
+- 
