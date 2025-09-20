@@ -1,0 +1,7 @@
+https://github.com/AdguardTeam/AdGuardHome
+https://github.com/dani-garcia/vaultwarden
+https://github.com/louislam/dockge
+https://github.com/louislam/uptime-kuma
+https://github.com/makeplane/plane
+https://github.com/portainer/portainer
+https://github.com/wg-easy/wg-easy
