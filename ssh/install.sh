@@ -5,6 +5,7 @@
 # tar -cJf ids.tar.xz id_*
 # cp id_ed25519.pub key.pub
 # rm id_*
+# # Do not forget to delete ids.tar.xz
 
 curl https://raw.githubusercontent.com/michael-lorenzo/scripts/refs/heads/main/ssh/key.pub >> ~/.ssh/authorized_keys
 curl https://github.com/michael-lorenzo.keys >> ~/.ssh/authorized_keys
