@@ -1,0 +1,8 @@
+postfix / relay
+https://documentation.ubuntu.com/server/how-to/mail-services/install-postfix/
+postmark?
+SES?
+cloudflare? (invite only atm)
+
+https://github.com/mrash/fwknop
+make a go version instead of perl
