@@ -18,3 +18,6 @@
 # MCP
 - https://github.com/microsoft/playwright-mcp
 - https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+# Misc
+- https://github.com/ryanoasis/nerd-fonts
