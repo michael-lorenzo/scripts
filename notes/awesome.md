@@ -19,5 +19,9 @@
 - https://github.com/microsoft/playwright-mcp
 - https://github.com/ChromeDevTools/chrome-devtools-mcp
 
+# AI
+- https://deepwiki.com/
+- https://github.com/PicoTrex/Awesome-Nano-Banana-images
+
 # Misc
 - https://github.com/ryanoasis/nerd-fonts
