@@ -14,3 +14,7 @@
 - https://github.com/caddyserver/caddy
 - https://github.com/rclone/rclone
 - https://github.com/restic/restic
+
+# MCP
+- https://github.com/microsoft/playwright-mcp
+- https://github.com/ChromeDevTools/chrome-devtools-mcp
