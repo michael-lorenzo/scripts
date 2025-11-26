@@ -20,3 +20,6 @@ https://openzl.org/
 npm install -g typescript
 https://pnpm.io/
 nextjs
+
+https://github.com/topics/google-analytics
+https://github.com/fingerprintjs/fingerprintjs
