@@ -15,3 +15,8 @@ https://github.com/fastplotlib/fastplotlib
 https://github.com/stanfordnlp/dspy
 https://overturemaps.org/
 https://openzl.org/
+
+
+npm install -g typescript
+https://pnpm.io/
+nextjs
