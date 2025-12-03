@@ -25,3 +25,15 @@
 
 # Misc
 - https://github.com/ryanoasis/nerd-fonts
+
+
+https://github.com/trufflesecurity/trufflehog
+
+
+https://github.com/bottlepy/bottle
+https://github.com/coleifer/peewee
+https://github.com/pallets/flask
+https://github.com/sqlalchemy/mako
+https://github.com/sqlalchemy/sqlalchemy
+
+https://github.com/sst/opencode
