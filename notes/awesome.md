@@ -41,6 +41,7 @@ https://workers.cloudflare.com/
 hono
 
 https://github.com/sxyazi/yazi
+https://github.com/ryanoasis/nerd-fonts
 https://docs.jj-vcs.dev/latest/
 https://github.com/surrealdb/surrealdb
 https://github.com/jesseduffield/lazydocker
