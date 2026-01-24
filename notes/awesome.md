@@ -24,8 +24,6 @@
 - https://github.com/PicoTrex/Awesome-Nano-Banana-images
 
 # Misc
-- https://github.com/ryanoasis/nerd-fonts
-
 
 https://github.com/trufflesecurity/trufflehog
 
@@ -37,3 +35,22 @@ https://github.com/sqlalchemy/mako
 https://github.com/sqlalchemy/sqlalchemy
 
 https://github.com/sst/opencode
+
+
+https://workers.cloudflare.com/
+hono
+
+https://github.com/sxyazi/yazi
+https://docs.jj-vcs.dev/latest/
+https://github.com/surrealdb/surrealdb
+https://github.com/jesseduffield/lazydocker
+https://www.lazyvim.org/
+https://github.com/jesseduffield/lazygit
+https://alacritty.org/
+https://www.youtube.com/watch?v=Sx9zG7wa4FA
+https://github.com/starship/starship
+https://yazi-rs.github.io/docs/installation good list of stuff
+
+https://github.com/jlevy/the-art-of-command-line
+https://www.youtube.com/watch?v=Sx9zG7wa4FA
+
