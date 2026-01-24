@@ -2,6 +2,6 @@
     name = mike
     email = mike@localhost
 [core]
-    editor = micro
+    editor = nvim
 [init]
     defaultBranch = main
