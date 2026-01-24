@@ -26,3 +26,10 @@ nextjs
 
 https://github.com/topics/google-analytics
 https://github.com/fingerprintjs/fingerprintjs
+
+
+https://en.wikipedia.org/wiki/Raft_(algorithm)
+https://github.com/lg/murder
+https://en.wikipedia.org/wiki/BitTorrent
+https://www.youtube.com/watch?v=ro2fU8_mr2w
+
