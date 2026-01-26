@@ -34,7 +34,9 @@ https://github.com/pallets/flask
 https://github.com/sqlalchemy/mako
 https://github.com/sqlalchemy/sqlalchemy
 
-https://github.com/sst/opencode
+https://nats.io/
+zeromq
+celery
 
 
 https://workers.cloudflare.com/
