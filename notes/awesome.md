@@ -37,7 +37,7 @@ https://github.com/sqlalchemy/sqlalchemy
 https://nats.io/
 zeromq
 celery
-
+https://github.com/surrealdb/surrealdb
 
 https://workers.cloudflare.com/
 hono
@@ -50,6 +50,7 @@ https://github.com/jesseduffield/lazydocker
 https://www.lazyvim.org/
 https://github.com/jesseduffield/lazygit
 https://alacritty.org/
+neovim
 https://www.youtube.com/watch?v=Sx9zG7wa4FA
 https://github.com/starship/starship
 https://yazi-rs.github.io/docs/installation good list of stuff
