@@ -2,4 +2,4 @@
 
 # https://github.com/openai/codex
 
-npm i -g @openai/codex
+npm install -g @openai/codex
