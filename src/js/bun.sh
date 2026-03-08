@@ -4,3 +4,5 @@
 
 apt-get -y install curl unzip
 curl -fsSL https://bun.com/install | bash
+
+# bun upgrade
