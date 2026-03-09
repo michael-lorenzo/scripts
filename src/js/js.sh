@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # https://github.com/Schniz/fnm
-# https://github.com/nodejs/node
-# https://github.com/pnpm/pnpm
+# https://github.com/nodejs/corepack
 # https://github.com/oven-sh/bun
 
 sudo apt-get update && sudo apt-get -y install curl unzip ca-certificates
