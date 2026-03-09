@@ -4,8 +4,8 @@
 # https://github.com/nodejs/node
 # https://github.com/pnpm/pnpm
 
-apt-get -y install curl unzip
+sudo apt-get update && sudo apt-get -y install curl unzip ca-certificates
 curl -fsSL https://fnm.vercel.app/install | bash
-source ~/.bashrc
-fnm install 24
+export PATH="$HOME/.local/share/fnm:$PATH" && eval "$(fnm env)"
+fnm install --lts
 npm install -g npm pnpm
