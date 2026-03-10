@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 sed -i 's/#DNSStubListener=yes/DNSStubListener=no/' /etc/systemd/resolved.conf
 systemctl restart systemd-resolved
