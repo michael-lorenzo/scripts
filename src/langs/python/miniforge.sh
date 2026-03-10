@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S bash -i
 
 # https://github.com/conda-forge/miniforge
 
