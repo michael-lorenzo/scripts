@@ -12,4 +12,5 @@ if ! grep -qxF 'export PATH="$PATH:/usr/local/go/bin"' ~/.bashrc 2>/dev/null; th
   echo 'export GOBIN="$HOME/.local/bin"' >> ~/.bashrc
   echo 'export PATH="$PATH:/usr/local/go/bin"' >> ~/.bashrc
 fi
+source ~/.bashrc
 go install golang.org/x/tools/gopls@latest
