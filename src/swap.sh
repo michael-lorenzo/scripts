@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-fallocate -l 4G /swapfile
-chmod 600 /swapfile
-mkswap /swapfile
-echo '/swapfile none swap defaults' >> /etc/fstab
+fallocate -l 4G /swap
+chmod 600 /swap
+mkswap /swap
+echo '/swap none swap defaults' >> /etc/fstab
 swapon -a
 free -h
