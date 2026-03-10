@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 apt-get update
 apt-get -y install build-essential mosh
