@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 fallocate -l 4G /swap
 chmod 600 /swap
