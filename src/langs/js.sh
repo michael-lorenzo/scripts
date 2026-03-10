@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S bash -i
 
 # https://github.com/Schniz/fnm
 # https://github.com/nodejs/corepack
