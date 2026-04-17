@@ -2,6 +2,7 @@
 
 # https://go.dev/doc/install
 
+sudo apt-get update && sudo apt-get -y install jq
 file_name="$(curl -fsSL https://go.dev/dl/?mode=json | jq -r '.[0].files[] | select(.os=="linux" and .arch=="amd64") | .filename')"
 wget "https://go.dev/dl/${file_name}"
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf "$file_name"
