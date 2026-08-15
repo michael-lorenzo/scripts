@@ -1,9 +1,10 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 # https://doc.crowdsec.net/u/getting_started/installation/linux
 
-curl -s https://install.crowdsec.net | sudo sh
+curl -fsSL https://install.crowdsec.net | sh
 apt-get -y install crowdsec crowdsec-firewall-bouncer-iptables
+cscli hub update
+cscli hub upgrade
 systemctl restart crowdsec
 # cscli decisions list
-# cscli metrics show decisions
